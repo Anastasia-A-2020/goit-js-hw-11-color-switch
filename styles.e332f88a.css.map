@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,sBAAuB,CACvB,eACF,CAEA,OACE,oBAAqB,CACrB,eACF","file":"styles.e332f88a.css","sourceRoot":"../src","sourcesContent":["body {\n  text-align: center;\n  font-family: sans-serif;\n  font-weight: 100;\n}\n\nbutton {\n  display: inline-block;\n  margin-top: 30px;\n}\n"]}
