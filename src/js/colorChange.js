@@ -28,6 +28,5 @@ function onStartBtnClick() {
 
 function onStopBtnClick() {
     refs.startBtn.disabled = false;
-    refs.stopBtn.disabled = true;
     clearInterval(intervalForChangeColor)
 };
